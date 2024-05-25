@@ -29,8 +29,8 @@ LED PIN D3, D5 ;
 #include <ESP8266WiFi.h>
 #include <ESP8266WebServer.h>
 
-const char *ssid = "YourSSID";
-const char *password = "YourPassword";
+const char *ssid = "OFFLINK";
+const char *password = "INVENTOAIOFFLINK";
 
 ESP8266WebServer server(80);
 
